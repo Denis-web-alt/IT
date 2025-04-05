@@ -1,0 +1,3 @@
+# IT
+cmd
+winget upgrade -h --all
